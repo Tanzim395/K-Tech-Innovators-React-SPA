@@ -11,9 +11,11 @@ const Header = () => {
                 <a href="/home">Home</a>
                 <a href="/councilling">Councilling Time</a>
                 <a href="/contact">Contact</a>
+                <a href="/about">About Us</a>
             </nav>
-            <div>
-                <h3 style={{ textAlign: 'center', fontWeight: '700', fontSize: '25px' }}>Where the world meet <span style={{ color: 'orange' }}>"Tech Legends"</span></h3>
+            <div className="body-info">
+                <h1 style={{ textAlign: 'center' }}>K- Tech</h1>
+                <h3 style={{ textAlign: 'center', fontWeight: '700', fontSize: '25px' }}>Where the world meet <span style={{ color: '#3486d9' }}>"Tech Enthusiasts"</span></h3>
             </div>
         </div>
     );

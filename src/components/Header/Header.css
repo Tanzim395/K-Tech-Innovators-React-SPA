@@ -22,3 +22,7 @@ line-height: 50px;
     background-color: gray;
     color: blue;
 }
+.body-info{
+    background-color: peachpuff;
+    border: 2px solid gray;
+}
