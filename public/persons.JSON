@@ -1,7 +1,7 @@
 [
     {
         "name": "Mark Zuckerberg",
-        "age": 50,
+        "age": 37,
         "gender": "male",
         "followers": "942K",
         "earning": 9500000,
@@ -9,7 +9,7 @@
     },
     {
         "name": "Elon Musk",
-        "age": 35,
+        "age": 50,
         "gender": "male",
         "followers": "3.1M ",
         "earning": 19500000,
@@ -18,7 +18,7 @@
     {
         "name": "Kara Swissher",
         "age": 35,
-        "gender": "male",
+        "gender": "female",
         "followers": "942K",
         "earning": 19500000,
         "img": "https://images.yourstory.com/production/document_image/mystoryimage/o60y7jzi-Kara-Swisher.jpg?fm=auto&mode=crop&crop=faces&ar=1022:511&w=800"
@@ -41,7 +41,7 @@
     },
     {
         "name": "Linus Sebastian",
-        "age": 53,
+        "age": 35,
         "gender": "male",
         "followers": "372K",
         "earning": 18500000,
@@ -97,7 +97,7 @@
     },
     {
         "name": "Jeff Bezos",
-        "age": 45,
+        "age": 57,
         "gender": "male",
         "followers": "1.1m",
         "earning": 25300020,
