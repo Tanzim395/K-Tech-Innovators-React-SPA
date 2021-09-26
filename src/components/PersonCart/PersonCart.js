@@ -8,6 +8,7 @@ const PersonCart = (props) => {
 
     return (
         <div className="personCart">
+            <h2 style={{ color: 'orangered', textAlign: 'center' }}>Cart</h2>
             <h2 ><i style={{ color: 'aquamarine' }}>Persons Added: <span style={{ color: 'white' }}> {personCart.length}</span></i></h2>
             <hr />
             <h3 style={{ color: 'aquamarine' }}>Total Payable: <span style={{ color: 'goldenrod' }}>${total}</span></h3>

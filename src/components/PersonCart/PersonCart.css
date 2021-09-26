@@ -1,9 +1,10 @@
 .personCart{
    
-    margin-top: 30px;
+    margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 10px;
     border-radius: 10px;
     width: 80%;
-    padding: 10px;
+    padding: auto;
 }
