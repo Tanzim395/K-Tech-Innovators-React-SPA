@@ -1,0 +1,31 @@
+.circular-img{
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    margin-top: 5px;
+}
+.person{
+
+    text-align: center;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    border: 3px solid goldenrod;
+    padding: 10px;
+    height: fit-content;
+}
+.person:hover{
+    background-color: gray;
+    color: black;
+    border: 3px solid rgb(0, 183, 255);
+}
+.btn-regular{
+    background-image: linear-gradient(orangered, yellow);
+    color: black;
+    padding: 10px;
+    font-size: large;
+    font-weight: bolder;
+    border-radius: 10px;
+    cursor: pointer;
+}
