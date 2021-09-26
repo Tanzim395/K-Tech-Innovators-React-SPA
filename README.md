@@ -8,4 +8,4 @@
 
 *Meet The World of Tech Enthusiasts
 
-Format: ![K-tech](https://img.arirang.com/A_UpFile/Template/TP200720160544_A1.jpg)
+![K-tech](https://img.arirang.com/A_UpFile/Template/TP200720160544_A1.jpg)
