@@ -8,7 +8,7 @@
 
 * Meet The World of Tech Enthusiasts!!!
 
-*This site build by ReactJs, Bootstrap 5.0 + Plain CSS Combo, JSX.
+* This site build by ReactJs, Bootstrap 5.0 + Plain CSS Combo, JSX.
 
 
 
